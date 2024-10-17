@@ -1,0 +1,22 @@
+Open the shortcut and give it permissions so that it can run
+
+Make sure you install python3
+
+Run the commands:
+		chmod u+x 30_and_up.py
+		chmod u+x mv_Script.sh
+
+How to use this:
+	First go to one of your schools
+	
+	Next go to reports
+
+	Select Teacher Certification with the School year time frame. Then export the report
+
+	Next deselect Teacher Certification, and select Student Seat Time. With the custom time set.
+
+	Once you have both of those files in your download folder. Run the report card script.
+
+	Enter the school name into the text prompt
+
+If you need to see the reports you can go to "~/Documents/Managed\ Schools\ Downloaded\ data/"
